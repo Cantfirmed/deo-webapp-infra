@@ -19,4 +19,4 @@ spec:
           args: ["--urls", "http://*:3000"]
           ports:
             - containerPort: 3000
-# Password argo - AdminAdmin
+# Password argo - admin123
